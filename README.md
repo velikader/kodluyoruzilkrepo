@@ -1,9 +1,9 @@
 # Kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
  
- #Installation
+ ## Installation
  
- `git clone https://github.com/velikader/kodluyoruzilkrepo.git
+ `git clone https://github.com/velikader/kodluyoruzilkrepo.git`
  
  ## Usage
 
